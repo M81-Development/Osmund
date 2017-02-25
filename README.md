@@ -17,11 +17,15 @@ I will soon have my own family, a virtuous wife.
 
 It is time to say goodbye, for the better future，to strive.
 
-Do you regret not having done，while we are still alive try again.
+Do you regret not having done？
 
-Thank us for the common experience of the past.
+While we are still alive try again.
+
+Thank us for the common Spent of the past.
 
 To treasure.
+
+Good Bye.
 
 In the end, to express my love @ Lu Ruonan :)
 
