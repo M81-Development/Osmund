@@ -19,6 +19,8 @@ It is time to say goodbye, for the better future，to strive.
 
 Do you regret not having done，while we are still alive try again.
 
+Thank us for the common experience of the past.
+
 To treasure.
 
 In the end, to express my love @ Lu Ruonan :)
