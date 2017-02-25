@@ -5,7 +5,7 @@ Last updated 2016.11.17
 
 # Hermitage
 
-People often say that all good thing come to an end.
+People often say that all good things come to an end.
 
 And today, is the time to end.
 
