@@ -9,7 +9,7 @@ People often say that all good things come to an end.
 
 And today, is the time to end.
 
-I started to Develop MeilanNote2, in July 12, 2016.
+I started to Develop MeilanNote2, on July 12, 2016.
 
 In the turning of a hand to today, February 25, 2017, has 228 days gone.
 
