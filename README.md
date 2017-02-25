@@ -15,7 +15,7 @@ In the turning of a hand to today, February 25, 2017, has 228 days gone.
 
 I will soon have my own family, a virtuous wife.
 
-It is time to say goodbye, for the future better, to struggle.
+It is time to say goodbye, for the better future， to struggle.
 
 To treasure.
 
