@@ -5,7 +5,7 @@ MIUI 8 For Meizu M2Note(MT6753;M571)
 Last updated 2016.11.17
 
 
-Meizu M2 Note 
+# About Meizu M2 Note 
 =============
 
 Basic   | Spec Sheet
