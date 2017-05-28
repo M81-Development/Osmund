@@ -6,7 +6,7 @@ Last updated 2016.11.17
 
 
 # About Meizu M2 Note 
-=============
+
 
 Basic   | Spec Sheet
 -------:|:-------------------------
