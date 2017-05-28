@@ -1,6 +1,6 @@
 # MIUI8_For_Meizu_M2Note
 
-MIUI 8 For Meizu M2Note(MT6753;M571)
+MIUI 8 For Meizu M2Note(MT6753;M81)
 
 Last updated 2016.11.17
 
