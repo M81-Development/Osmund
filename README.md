@@ -1,6 +1,5 @@
-# MIUI8_For_Meizu_M2Note
+# MIUI 8 For Meizu M2Note (M81)
 
-MIUI 8 For Meizu M2Note (M81)
 Last updated 2017.5.28
 
 
@@ -20,21 +19,21 @@ Battery | 3100 mAh
 Display | 5.5" 1080 x 1920 px
 Camera  | 13 MP, f/2.2, autofocus, dual-LED (dual tone) flash
 
-![Meizu M2 Note](http://mymeizu.ru/bitrix/templates/m2note/content/color_4.jpg)
+# What 's this
 
-
+These are the files and binary libraries needed to port MIUI8 to M2 Note.
 
 # Start Working
 
 You need:
 
-A file manager like Windows Resource Manager (I recommend Total Commander)
+A file manager like Windows Resource Manager. (I recommend Total Commander)
  
-A compressing software (I recommend 7-Zip)
+A compressing software. (I recommend 7-Zip)
 
-A brain
+A brain and 20 minutes.
 
-Copy all of I given to the latest MIUI8
+Copy all of I given to the latest MIUI8.
 
 Compress to .zip
 
