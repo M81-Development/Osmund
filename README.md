@@ -1,9 +1,13 @@
-# MIUI 8 For Meizu M2Note (M81)
+# Osmund
+
+Osmund is the project used to port MIUI8 to Meizu M2 Note.
+
+## MIUI 8 For Meizu M2Note (M81)
 
 Last updated 2017.5.28
 
 
-# About Meizu M2 Note 
+## About Meizu M2 Note 
 
 
 Basic   | Spec Sheet
@@ -19,11 +23,11 @@ Battery | 3100 mAh
 Display | 5.5" 1080 x 1920 px
 Camera  | 13 MP, f/2.2, autofocus, dual-LED (dual tone) flash
 
-# What 's this
+## What 's this
 
 These are the files and binary libraries needed to port MIUI8 to M2 Note.
 
-# Start Working
+## Start Working
 
 You need:
 
