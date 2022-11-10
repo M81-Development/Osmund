@@ -1,6 +1,6 @@
 # Osmund
 
-Osmund is the project used to port MIUI8 to Meizu M2 Note.
+Osmund is a project used to port MIUI8 to Meizu M2 Note (M81).
 
 ## What 's this
 
@@ -24,7 +24,7 @@ Copy all of I given to the latest MIUI8.
 
 Compress to .zip
 
-All End, Flash it and enjoy！
+All end, flash it and enjoy！
 
 ## About Meizu M2 Note 
 
